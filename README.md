@@ -1,3 +1,4 @@
+![Header](./github-header-image.png)
 # AWS Machine Learning Scholarship Projects (2024)
 
 This repository showcases the projects completed for the AWS ML Scholarship program (2024 Cohort), offered by AWS in collaboration with Udacity. This comprehensive program provided a foundation in Machine Learning and Deep Learning and was offered to a limited number of graduates of the 2023 AWS AI & ML Scholarship.
