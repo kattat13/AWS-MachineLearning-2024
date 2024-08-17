@@ -1,4 +1,4 @@
-w# Project Name: *Predict Bike Sharing Demand with AutoGluon*
+# Project Name: *Predict Bike Sharing Demand with AutoGluon*
 
 To be continued
 
