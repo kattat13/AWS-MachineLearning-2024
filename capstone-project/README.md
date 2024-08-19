@@ -2,4 +2,4 @@
 
 To be continued
 
-<img src="./aws-tailored-p4.png" width="480">
+<img src="img/badge.png" width="480">
