@@ -9,6 +9,6 @@
 | Evaluation Metrics      | - Accuracy: To assess the performance of the model.<BR>- Confusion Matrix: To visualize the performance across different classes.            |
 
 ## Project Overview
-<img src="./img/badge.jpg" width="480" align="right">
+<img src="./img/badge.png" width="480" align="right">
 
 This project focuses on developing a neural network model to classify handwritten digits from the MNIST dataset using PyTorch. The model is trained to recognize digits from 0 to 9 based on pixel values from images.
