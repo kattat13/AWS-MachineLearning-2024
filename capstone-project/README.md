@@ -30,3 +30,21 @@ Project uses mainly **Amazon SageMaker**. It involves setting up a SageMaker env
 - Learn how to train and deploy machine learning models in a cloud environment.
 - Develop skills in creating serverless applications using AWS Lambda and Step Functions.
 - Acquire knowledge in monitoring machine learning models to ensure ongoing performance and reliability.
+
+
+## Project Structure
+
+```
+/capstone-project/
+│
+├── README.md
+├── Lambda.py                              # contains all 3 functions from lambda_functions catalog, required for project submission
+├── lambda_functions/
+│   ├── firstlambda.py
+│   ├── secondlambda.py
+│   └── thirdlambda.py
+├── step_functions/ - 
+│   └── MyStateMachine-pzcmtvz7d.asl.json  # defines Step Function, specifying the sequence and configuration of Lambda functions
+└── starter.ipynb                          # notebook containing data loading, preprocessing, model training and deployment
+
+```
